@@ -1,9 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is. You might want to check out this complete text and video based detailed [tutorial link](http://www.letscodepro.com/Twitter-Sentiment-Analysis/)
-
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DujId4ipkBio&psig=AOvVaw2lm-LD9g964cxUz8UVkvwN&ust=1631530467428000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMj14uii-fICFQAAAAAdAAAAABAD)
-
+This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is. You might want to check out this complete text and video based detailed [tutorial link](https://www.youtube.com/watch?v=ujId4ipkBio)
 
 ## Getting Started
  
